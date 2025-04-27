@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MOHAMED/Desktop/HousePredictionMLOps/mlruns/0/e36b523a7fe046569f5b45095f703470/artifacts
+end_time: 1745728130672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36b523a7fe046569f5b45095f703470
+run_name: light_gbm
+run_uuid: e36b523a7fe046569f5b45095f703470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745728114144
+status: 3
+tags: []
+user_id: MOHAMED

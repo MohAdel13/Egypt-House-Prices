@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MOHAMED/Desktop/HousePredictionMLOps/mlruns/0/24bd01f2c6be44b2b2d1fee970ef044a/artifacts
+end_time: 1745727112741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24bd01f2c6be44b2b2d1fee970ef044a
+run_name: xgboost
+run_uuid: 24bd01f2c6be44b2b2d1fee970ef044a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745727104485
+status: 4
+tags: []
+user_id: MOHAMED

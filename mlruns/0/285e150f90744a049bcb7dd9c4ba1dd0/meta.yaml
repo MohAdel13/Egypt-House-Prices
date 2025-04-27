@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MOHAMED/Desktop/HousePredictionMLOps/mlruns/0/285e150f90744a049bcb7dd9c4ba1dd0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 285e150f90744a049bcb7dd9c4ba1dd0
+run_name: random_forest
+run_uuid: 285e150f90744a049bcb7dd9c4ba1dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745727157933
+status: 1
+tags: []
+user_id: MOHAMED
