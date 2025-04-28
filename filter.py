@@ -4,14 +4,15 @@ import json
 # Load the JSON file into a variable
 def compound_city_dict_def():
     with open('Data/compound_city_dict.json', 'r') as f:
-        compound_city_dict = json.load(f)
-    return compound_city_dict
+        city_dict = json.load(f)
+    return city_dict
+
 
 compound_city_dict = compound_city_dict_def()
 
 
-property_types=['Duplex', 'Apartment', 'Penthouse', 'Studio', 'Chalet', 'Stand Alone Villa'
- ,'Twin House' ,'Town House']
+property_types = ['Duplex', 'Apartment', 'Penthouse', 'Studio', 'Chalet', 'Stand Alone Villa',
+                  'Twin House', 'Town House']
 
 
 compounds = [

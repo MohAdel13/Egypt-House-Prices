@@ -1,11 +1,7 @@
-# src/utils.py
-
-import joblib
 import dill
 import numpy as np
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
-
 
 
 class Float32Transformer(BaseEstimator, TransformerMixin):
@@ -16,17 +12,15 @@ class Float32Transformer(BaseEstimator, TransformerMixin):
         return X.astype('float32')
 
 
-
-
-# Dictionary mapping model names to their file paths
 MODEL_PATHS = {
     "Lightgbm": "models/lightgbm_best_model.pkl",
     # "random_forest": "models/random_forest_best_model.pkl",
     "SVR": "models/svr_best_model.pkl",
     "Xgboost": "models/xgboost_best_model.pkl",
-    # "stcking": "models/stacking_model_best_model.pkl"
+    # "stacking": "models/stacking_model_best_model.pkl"
     
 }
+
 
 # Load all models once
 def load_all_models():
@@ -36,8 +30,10 @@ def load_all_models():
             models[name] = dill.load(f)
     return models
 
+
 # Load models at the start
 MODELS = load_all_models()
+
 
 def predict_price(input_data: dict, model_name: str = "Lightgbm") -> float:
     try:
