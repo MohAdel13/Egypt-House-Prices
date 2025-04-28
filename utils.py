@@ -1,44 +1,50 @@
+# src/utils.py
+
+import joblib
 import dill
 import numpy as np
 import pandas as pd
+from sklearn.base import BaseEstimator, TransformerMixin
 
 
-def load_model():
-    """
-        Load the pre-trained model.
 
-        This function uses the `dill` library to deserialize the model from the
-        specified file path and returns
-        the trained model for further predictions.
-
-        Returns:
-            model: The deserialized model.
-        """
-
-    with open("models/lightgbm_best_model.pkl", "rb") as f:
-        return dill.load(f)
+class Float32Transformer(BaseEstimator, TransformerMixin):
+    def fit(self, X, y=None):
+        return self
+    
+    def transform(self, X, y=None):
+        return X.astype('float32')
 
 
-model = load_model()
 
 
-def predict_price(input_data: dict) -> float:
-    """
-       Predict the price using the loaded model.
+# Dictionary mapping model names to their file paths
+MODEL_PATHS = {
+    "Lightgbm": "models/lightgbm_best_model.pkl",
+    # "random_forest": "models/random_forest_best_model.pkl",
+    "SVR": "models/svr_best_model.pkl",
+    "Xgboost": "models/xgboost_best_model.pkl",
+    # "stcking": "models/stacking_model_best_model.pkl"
+    
+}
 
-       This function takes in a dictionary of input features, converts it into a
-       pandas DataFrame, and then uses the pre-trained model to make a price prediction.
-       The prediction is transformed using the inverse of the log transformation
-       (`np.expm1`) to return the actual price.
+# Load all models once
+def load_all_models():
+    models = {}
+    for name, path in MODEL_PATHS.items():
+        with open(path, "rb") as f:
+            models[name] = dill.load(f)
+    return models
 
-       Args:
-           input_data (dict): A dictionary containing feature names as keys and their
-                               respective values as input for prediction.
+# Load models at the start
+MODELS = load_all_models()
 
-       Returns:
-           float: The predicted price, transformed back from the log scale.
-       """
-
+def predict_price(input_data: dict, model_name: str = "Lightgbm") -> float:
+    try:
+        model = MODELS[model_name]
+    except KeyError:
+        raise ValueError(f"Model '{model_name}' not found. Available models: {list(MODELS.keys())}")
+    
     input_df = pd.DataFrame(input_data)
     prediction = np.expm1(model.predict(input_df)[0])
     return prediction

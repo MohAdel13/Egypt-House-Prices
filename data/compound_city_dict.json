@@ -1,0 +1,2336 @@
+{
+    "2020 Compound": [
+        "Imbaba",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa",
+        "New Capital City",
+        "Maamoura",
+        "Obour City",
+        "Hadayek 6th of October",
+        "Azarita",
+        "Mostakbal City",
+        "Hurghada",
+        "Nasr City",
+        "Hadayek al-Ahram",
+        "6th of October",
+        "Helmeyat El Zaytoun",
+        "Moharam Bik",
+        "North Coast",
+        "Borg al-Arab",
+        "Shorouk City",
+        "Amreya"
+    ],
+    "90 Avenue": [
+        "New Cairo - El Tagamoa",
+        "Ismailia City"
+    ],
+    "ABHA": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Borg al-Arab",
+        "North Coast"
+    ],
+    "AZAD": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Aeon": [
+        "Sheikh Zayed",
+        "Ismailia City",
+        "6th of October"
+    ],
+    "Aghadir": [
+        "North Coast"
+    ],
+    "Agora": [
+        "North Coast",
+        "Ain Sukhna"
+    ],
+    "Aida Beach": [
+        "North Coast"
+    ],
+    "Al Burouj": [
+        "New Cairo - El Tagamoa",
+        "Madinaty",
+        "Shorouk City",
+        "Nakheel"
+    ],
+    "Al Diyar": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Al Hayah": [
+        "Obour City",
+        "Maadi",
+        "Ain Sukhna",
+        "Ras Sedr",
+        "New Cairo - El Tagamoa"
+    ],
+    "Al Hegaz": [
+        "Ain Sukhna"
+    ],
+    "Al Maamourah El Gadida": [
+        "North Coast"
+    ],
+    "Al Maqsad": [
+        "New Capital City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Al Nasayem": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Al Rabwa": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Unknown"
+    ],
+    "Al Reviera": [
+        "Ras Sedr"
+    ],
+    "Al Shorouk": [
+        "North Coast",
+        "Borg al-Arab"
+    ],
+    "Al Solaimaneyah Golf City": [
+        "Unknown",
+        "Giza District",
+        "6th of October",
+        "Sheikh Zayed",
+        "Mohandessin"
+    ],
+    "Al Yasmine": [
+        "New Cairo - El Tagamoa",
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "Alamein Towers": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Allegria": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Giza District"
+    ],
+    "Alma": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Almanal": [
+        "Ain Sukhna"
+    ],
+    "Almaza Bay": [
+        "North Coast"
+    ],
+    "Amexco paradise": [
+        "Ain Sukhna"
+    ],
+    "Amigo": [
+        "Ras Sedr",
+        "Ain Sukhna"
+    ],
+    "Amorada": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Amoun": [
+        "North Coast"
+    ],
+    "Amwaj": [
+        "North Coast",
+        "Sheikh Zayed",
+        "Alamein",
+        "New Cairo - El Tagamoa",
+        "Maadi",
+        "Nasr City",
+        "Marsa Matrouh"
+    ],
+    "Anakaji": [
+        "Maadi",
+        "Heliopolis",
+        "Nasr City",
+        "New Capital City"
+    ],
+    "Andalus": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Aqua View": [
+        "Alamein",
+        "North Coast",
+        "Hurghada",
+        "Heliopolis"
+    ],
+    "Arabella Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Areej": [
+        "Ain Sukhna"
+    ],
+    "Arena City Towers": [
+        "New Beni Suef",
+        "Nasr City"
+    ],
+    "Aria": [
+        "New Cairo - El Tagamoa",
+        "Mostakbal City"
+    ],
+    "Armonia": [
+        "New Capital City"
+    ],
+    "Aroma Residence": [
+        "Ain Sukhna"
+    ],
+    "Asala": [
+        "Mansura"
+    ],
+    "Ashgar City": [
+        "6th of October",
+        "Hadayek 6th of October",
+        "Mohandessin"
+    ],
+    "Assiut University": [
+        "North Coast"
+    ],
+    "Aswar": [
+        "New Cairo - El Tagamoa",
+        "Borg al-Arab"
+    ],
+    "Atic": [
+        "Ras Sedr"
+    ],
+    "Atika": [
+        "New Capital City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Atrio": [
+        "Sheikh Zayed"
+    ],
+    "Azha": [
+        "Ain Sukhna",
+        "North Coast",
+        "Dabaa",
+        "Sheikh Zayed",
+        "Rehab City"
+    ],
+    "Azzar": [
+        "New Cairo - El Tagamoa",
+        "North Coast"
+    ],
+    "BOHO": [
+        "Ain Sukhna"
+    ],
+    "Badya Palm Hills": [
+        "Hadayek 6th of October",
+        "6th of October",
+        "Sheikh Zayed",
+        "Zamalek"
+    ],
+    "Baet El Masria": [
+        "Hadayek 6th of October"
+    ],
+    "Bamboo Palm Hills": [
+        "6th of October"
+    ],
+    "Baron City": [
+        "Mokattam",
+        "Katameya",
+        "New Cairo - El Tagamoa"
+    ],
+    "BatterSea": [
+        "North Coast"
+    ],
+    "Bavaria Town": [
+        "Zahraa Al Maadi"
+    ],
+    "Baymount": [
+        "Ain Sukhna",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Bedaya": [
+        "Hadayek 6th of October"
+    ],
+    "Beit Al Watan": [
+        "New Cairo - El Tagamoa",
+        "New Damietta",
+        "Sheikh Zayed",
+        "6th of October",
+        "Katameya",
+        "Hadayek 6th of October"
+    ],
+    "Bella Vista": [
+        "Ain Sukhna"
+    ],
+    "Bellagio": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "Belle Vie": [
+        "Sheikh Zayed"
+    ],
+    "Beta Gardens": [
+        "Hadayek 6th of October"
+    ],
+    "Beta Greens": [
+        "Mostakbal City",
+        "Hadayek 6th of October",
+        "6th of October"
+    ],
+    "Beverly Hills": [
+        "Sheikh Zayed",
+        "Giza District",
+        "6th of October"
+    ],
+    "Bianchi": [
+        "North Coast",
+        "Nasr City",
+        "Haram",
+        "Ain Sukhna",
+        "Heliopolis",
+        "New Cairo - El Tagamoa"
+    ],
+    "Bienestar": [
+        "Mokattam"
+    ],
+    "Bloomfields": [
+        "Mostakbal City",
+        "Nasr City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Blue Bay": [
+        "Ain Sukhna"
+    ],
+    "Blue Bay Asia": [
+        "Ain Sukhna"
+    ],
+    "Blue Blue": [
+        "Ain Sukhna",
+        "Sheikh Zayed",
+        "North Coast",
+        "Suez District",
+        "Heliopolis",
+        "Unknown"
+    ],
+    "Blue Valley": [
+        "North Coast"
+    ],
+    "Blue Vert": [
+        "New Capital City",
+        "Unknown"
+    ],
+    "Blumar North Coast": [
+        "North Coast",
+        "Dabaa"
+    ],
+    "Blumar Sokhna": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "Bo Island North Coast": [
+        "North Coast",
+        "Ain Sukhna"
+    ],
+    "Bo Sands": [
+        "North Coast"
+    ],
+    "Botanica": [
+        "New Capital City"
+    ],
+    "Bungalows": [
+        "North Coast"
+    ],
+    "Caesar Bay": [
+        "North Coast"
+    ],
+    "Caesar Island": [
+        "North Coast"
+    ],
+    "Cairo Festival City": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Cairo Gate": [
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Cali Coast": [
+        "North Coast",
+        "New Cairo - El Tagamoa",
+        "Sheikh Zayed",
+        "Nasr City",
+        "Ain Sukhna",
+        "Heliopolis",
+        "Marsa Matrouh",
+        "Maamoura"
+    ],
+    "Canary Beach": [
+        "Ain Sukhna"
+    ],
+    "Capital Gardens": [
+        "New Cairo - El Tagamoa",
+        "Shorouk City"
+    ],
+    "Capital Heights 2": [
+        "New Capital City"
+    ],
+    "Carnelia": [
+        "Ain Sukhna"
+    ],
+    "Carthage": [
+        "North Coast"
+    ],
+    "Casa Verde": [
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Casablanca": [
+        "North Coast"
+    ],
+    "Castle Landmark": [
+        "New Capital City"
+    ],
+    "Cecilia Lagoons": [
+        "North Coast",
+        "New Cairo - El Tagamoa"
+    ],
+    "Celia": [
+        "New Capital City",
+        "North Coast"
+    ],
+    "Century City": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Citystars AlSahel": [
+        "North Coast"
+    ],
+    "Cleopatra Palace": [
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Cleopatra Square": [
+        "Sheikh Zayed"
+    ],
+    "Concord Gardens": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Concordia": [
+        "New Cairo - El Tagamoa",
+        "6th of October"
+    ],
+    "Continental Gardens": [
+        "Sheikh Zayed"
+    ],
+    "Coral Hills": [
+        "North Coast"
+    ],
+    "Coronado": [
+        "Ain Sukhna",
+        "North Coast",
+        "New Cairo - El Tagamoa"
+    ],
+    "Coronado Marina": [
+        "Ain Sukhna"
+    ],
+    "Costa Del Sol": [
+        "North Coast"
+    ],
+    "Creek Park": [
+        "6th of October"
+    ],
+    "Creek Town": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Crystal Lagoon": [
+        "North Coast"
+    ],
+    "Crystal Plaza": [
+        "Maadi"
+    ],
+    "D-Bay": [
+        "North Coast",
+        "Zagazig",
+        "Mohandessin",
+        "New Cairo - El Tagamoa",
+        "Nasr City",
+        "Alamein",
+        "Marsa Matrouh",
+        "Giza District",
+        "Dabaa"
+    ],
+    "Dalia": [
+        "North Coast"
+    ],
+    "Dar Misr": [
+        "Sheikh Zayed",
+        "Hadayek 6th of October",
+        "Shorouk City",
+        "New Cairo - El Tagamoa",
+        "Rehab City",
+        "Obour City",
+        "10th of Ramadan",
+        "New Damietta"
+    ],
+    "De Joya": [
+        "New Capital City",
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Degla Gardens": [
+        "Hadayek 6th of October",
+        "6th of October"
+    ],
+    "Degla Landmark": [
+        "Nasr City"
+    ],
+    "Degla Palms": [
+        "6th of October"
+    ],
+    "Degla Towers": [
+        "New Cairo - El Tagamoa",
+        "Nasr City"
+    ],
+    "Degla View": [
+        "Maadi"
+    ],
+    "Diamond Beach": [
+        "North Coast"
+    ],
+    "Dimora North Coast": [
+        "North Coast"
+    ],
+    "Diplo 3": [
+        "North Coast"
+    ],
+    "Diplomats": [
+        "New Cairo - El Tagamoa"
+    ],
+    "District 5 Compound": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Dolphin Beach": [
+        "Ain Sukhna"
+    ],
+    "Downtown": [
+        "Alamein",
+        "North Coast"
+    ],
+    "Dreamland": [
+        "Hadayek 6th of October",
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Dyar": [
+        "New Cairo - El Tagamoa",
+        "6th of October",
+        "Sheikh Zayed",
+        "North Coast",
+        "Katameya"
+    ],
+    "EL Patio 2": [
+        "New Cairo - El Tagamoa",
+        "Sheikh Zayed"
+    ],
+    "EL Patio 3": [
+        "New Cairo - El Tagamoa"
+    ],
+    "EL Patio 4": [
+        "New Cairo - El Tagamoa"
+    ],
+    "EL Patio 5": [
+        "Shorouk City",
+        "North Coast",
+        "New Cairo - El Tagamoa"
+    ],
+    "EL Patio 6": [
+        "Sheikh Zayed",
+        "6th of October",
+        "New Cairo - El Tagamoa"
+    ],
+    "EL Patio 7": [
+        "New Cairo - El Tagamoa",
+        "Sheikh Zayed"
+    ],
+    "EL Patio Casa": [
+        "Shorouk City",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "EL Patio ORO": [
+        "New Cairo - El Tagamoa"
+    ],
+    "EL Patio Prime": [
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Eastown": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Eco West": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Ein Bay": [
+        "Ain Sukhna"
+    ],
+    "Ein Hills": [
+        "Ain Sukhna"
+    ],
+    "El Ashgar District": [
+        "6th of October",
+        "Hadayek 6th of October"
+    ],
+    "El Karma": [
+        "Sheikh Zayed",
+        "Seyouf"
+    ],
+    "El Karma 2": [
+        "Sheikh Zayed"
+    ],
+    "El Karma 4": [
+        "Sheikh Zayed",
+        "Unknown"
+    ],
+    "El Khamayel": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "El Marwa": [
+        "Marsa Matrouh"
+    ],
+    "El Masyaf": [
+        "Agami"
+    ],
+    "El Patio": [
+        "Shorouk City",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa",
+        "Unknown",
+        "Mostakbal City",
+        "10th of Ramadan",
+        "6th of October"
+    ],
+    "El Rawda": [
+        "North Coast"
+    ],
+    "El Reef El Orouby": [
+        "West Somid",
+        "Sheikh Zayed"
+    ],
+    "El Safa": [
+        "North Coast"
+    ],
+    "El Shorouk Springs": [
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "El Tayaran": [
+        "Borg al-Arab"
+    ],
+    "Elite Ras Sedr": [
+        "Ras Sedr"
+    ],
+    "Emerald Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Empire": [
+        "Ain Sukhna"
+    ],
+    "Entrada": [
+        "New Capital City"
+    ],
+    "Eshraqa": [
+        "6th of October"
+    ],
+    "Etapa": [
+        "Sheikh Zayed"
+    ],
+    "Etlalah": [
+        "6th of October"
+    ],
+    "Etoile de Ville": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Fanar De Luna": [
+        "Ain Sukhna"
+    ],
+    "Farah": [
+        "North Coast"
+    ],
+    "Fifth Square": [
+        "New Cairo - El Tagamoa",
+        "Rehab City"
+    ],
+    "Fleur De Ville": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Florenta": [
+        "Katameya"
+    ],
+    "Floria": [
+        "New Capital City"
+    ],
+    "Flowers Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Fouka Bay": [
+        "North Coast",
+        "New Cairo - El Tagamoa",
+        "Alamein"
+    ],
+    "Fountain Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "GCR Golf City": [
+        "Zagazig",
+        "Obour City"
+    ],
+    "Gaia": [
+        "North Coast",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Galleria": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Galleria Moon Valley": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Garana": [
+        "6th of October"
+    ],
+    "Garden Hills": [
+        "6th of October"
+    ],
+    "Gardenia": [
+        "6th of October",
+        "Nasr City",
+        "Hadayek 6th of October",
+        "Garden City",
+        "Haram"
+    ],
+    "Gardenia Springs": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Gharb Golf": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Gharb Golf & Extension": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Ghazala Bay": [
+        "North Coast"
+    ],
+    "Ghazala Valley": [
+        "North Coast"
+    ],
+    "Golden Beach North Coast": [
+        "North Coast"
+    ],
+    "Golden Beach Ras Sedr": [
+        "Ras Sedr"
+    ],
+    "Golden Coast Sokhna": [
+        "Ain Sukhna"
+    ],
+    "Golden Heights": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Golf Porto Marina": [
+        "North Coast",
+        "Sheikh Zayed",
+        "Shorouk City",
+        "Alamein",
+        "New Cairo - El Tagamoa",
+        "Madinaty"
+    ],
+    "Grand Heights": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Unknown",
+        "Abu Rawash"
+    ],
+    "Grand Hills": [
+        "North Coast"
+    ],
+    "Grand Residence": [
+        "New Cairo - El Tagamoa",
+        "Rehab City"
+    ],
+    "Granda": [
+        "Shorouk City"
+    ],
+    "Green 4": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Green Beach": [
+        "North Coast"
+    ],
+    "Green Square": [
+        "New Cairo - El Tagamoa",
+        "Mostakbal City"
+    ],
+    "Greenland": [
+        "Hadayek 6th of October"
+    ],
+    "Greens": [
+        "Sheikh Zayed"
+    ],
+    "Hacienda Bay": [
+        "North Coast",
+        "Nasr City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Hacienda West": [
+        "North Coast",
+        "New Cairo - El Tagamoa",
+        "Heliopolis",
+        "Dabaa",
+        "Zamalek",
+        "Sheikh Zayed"
+    ],
+    "Hacienda White": [
+        "North Coast"
+    ],
+    "Hadaba": [
+        "Hadayek al-Ahram",
+        "Haram",
+        "Sheikh Zayed"
+    ],
+    "Hanging Gardens Porto Sokhna": [
+        "Nasr City",
+        "Ain Sukhna"
+    ],
+    "Haptown": [
+        "New Cairo - El Tagamoa",
+        "Mostakbal City"
+    ],
+    "Haram City": [
+        "Hadayek 6th of October",
+        "6th of October"
+    ],
+    "Hayah Residence": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Heaven Beach": [
+        "Ain Sukhna"
+    ],
+    "Heliobeach": [
+        "North Coast"
+    ],
+    "High City": [
+        "Obour City"
+    ],
+    "Highland Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Horus & El Remal El Zahabeya": [
+        "North Coast",
+        "Hammam"
+    ],
+    "Hyde Park New Cairo": [
+        "New Cairo - El Tagamoa",
+        "Rehab City"
+    ],
+    "IL Bosco": [
+        "New Capital City",
+        "New Cairo - El Tagamoa"
+    ],
+    "IL Bosco City": [
+        "New Cairo - El Tagamoa",
+        "Mostakbal City",
+        "New Capital City"
+    ],
+    "IL Monte Galala": [
+        "Ain Sukhna",
+        "Nasr City",
+        "New Cairo - El Tagamoa",
+        "North Coast",
+        "Sheikh Zayed",
+        "Zahraa Al Maadi",
+        "Unknown"
+    ],
+    "Isola": [
+        "Hadayek 6th of October",
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Italian Square": [
+        "Badr City"
+    ],
+    "Jasmine City": [
+        "Sheikh Zayed"
+    ],
+    "Jayd": [
+        "New Cairo - El Tagamoa",
+        "Rehab City"
+    ],
+    "Jazzy Bay": [
+        "Unknown",
+        "Ain Sukhna",
+        "Ras Sedr"
+    ],
+    "Jebal": [
+        "New Cairo - El Tagamoa",
+        "Ain Sukhna",
+        "North Coast"
+    ],
+    "Jedar": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Jeera": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Jefaira": [
+        "North Coast",
+        "Alamein",
+        "Zahraa Al Maadi"
+    ],
+    "Jevera Bay": [
+        "North Coast"
+    ],
+    "Jewar": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Amreya"
+    ],
+    "Jodran": [
+        "Zahraa Al Maadi"
+    ],
+    "Joulz": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "June Sodic": [
+        "North Coast",
+        "Sheikh Zayed"
+    ],
+    "Jura": [
+        "Ain Sukhna"
+    ],
+    "Kai": [
+        "Alamein",
+        "North Coast"
+    ],
+    "Kanarya": [
+        "Sheikh Zayed"
+    ],
+    "Karma Residence": [
+        "Sheikh Zayed"
+    ],
+    "Karmell": [
+        "Sheikh Zayed"
+    ],
+    "Katameya Breeze": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Katameya Dunes": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Katameya Heights": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Katameya Hills": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Katameya Plaza": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Kattameya Gardens": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Kattameya Gate": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Kattameya Palms": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Kattameya Residence": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Kayan": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Hadayek 6th of October"
+    ],
+    "Keeva": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "Kenz": [
+        "Hadayek 6th of October",
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Kings range": [
+        "Sheikh Zayed"
+    ],
+    "Korba Heights": [
+        "New Heliopolis"
+    ],
+    "Krair Lagoon": [
+        "Amreya",
+        "Abu Talat"
+    ],
+    "Kreir Paradise": [
+        "Rehab City"
+    ],
+    "La Fontaine Province": [
+        "New Cairo - El Tagamoa"
+    ],
+    "La Hacienda Ras Sedr": [
+        "New Cairo - El Tagamoa"
+    ],
+    "La Jolie": [
+        "Ain Sukhna"
+    ],
+    "La Jolie Marina": [
+        "Ain Sukhna"
+    ],
+    "La Luna Beach": [
+        "Ain Sukhna"
+    ],
+    "La Mirada": [
+        "New Cairo - El Tagamoa"
+    ],
+    "La Nouva Vista": [
+        "New Cairo - El Tagamoa"
+    ],
+    "La Rose": [
+        "New Cairo - El Tagamoa"
+    ],
+    "La Sirena Resort": [
+        "North Coast",
+        "Ain Sukhna",
+        "Ras Sedr"
+    ],
+    "La Terra": [
+        "New Cairo - El Tagamoa"
+    ],
+    "La Vento": [
+        "Ras Sedr"
+    ],
+    "La Verde": [
+        "New Capital City"
+    ],
+    "La Vida": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "La Vista 1": [
+        "Ain Sukhna"
+    ],
+    "La Vista 2": [
+        "Ain Sukhna"
+    ],
+    "La Vista 3": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "La Vista 4": [
+        "Ain Sukhna"
+    ],
+    "La Vista 5": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "La Vista 6": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "La Vista 7": [
+        "Ain Sukhna"
+    ],
+    "La Vista Bay East": [
+        "North Coast",
+        "Ain Sukhna"
+    ],
+    "La Vista Bay North Coast": [
+        "North Coast",
+        "Alamein",
+        "Ain Sukhna"
+    ],
+    "La Vista Cascada": [
+        "North Coast",
+        "Ain Sukhna"
+    ],
+    "La Vista City": [
+        "New Capital City",
+        "New Cairo - El Tagamoa",
+        "Shorouk City"
+    ],
+    "La Vista Gardens": [
+        "Ain Sukhna"
+    ],
+    "La Vista Ras El Hikma": [
+        "North Coast",
+        "Sheikh Zayed"
+    ],
+    "La Vista Ray": [
+        "Ain Sukhna"
+    ],
+    "La Vista Topaz of Ain Sokhna": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "Lagoon Arco": [
+        "North Coast"
+    ],
+    "Laguna bay": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "Lake View": [
+        "Hadayek 6th of October",
+        "New Cairo - El Tagamoa"
+    ],
+    "Lake West": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "Lake view Residence": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Lakefront": [
+        "6th of October",
+        "Hadayek 6th of October"
+    ],
+    "Laserina Oyoun Mousa": [
+        "Ras Sedr"
+    ],
+    "Lasirena North Coast": [
+        "North Coast",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa",
+        "Dabaa"
+    ],
+    "Lasirena Sokhna": [
+        "Ain Sukhna",
+        "Al Manial"
+    ],
+    "Latin District": [
+        "North Coast"
+    ],
+    "Lavida": [
+        "Shorouk City"
+    ],
+    "Layan": [
+        "New Cairo - El Tagamoa",
+        "Nasr City"
+    ],
+    "Le Jardin": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Leena Springs": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Legenda": [
+        "Sheikh Zayed"
+    ],
+    "Leila": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Les Rois": [
+        "New Cairo - El Tagamoa",
+        "Unknown"
+    ],
+    "Light City": [
+        "New Capital City"
+    ],
+    "Little Venice": [
+        "Ain Sukhna"
+    ],
+    "Long Beach": [
+        "North Coast"
+    ],
+    "Lotus": [
+        "Alamein",
+        "North Coast"
+    ],
+    "L\u2019Avenir": [
+        "Mostakbal City"
+    ],
+    "Maadi Gardens": [
+        "Katameya"
+    ],
+    "Maadi Grand City": [
+        "Maadi",
+        "Zahraa Al Maadi",
+        "New Cairo - El Tagamoa"
+    ],
+    "Maadi V": [
+        "Zahraa Al Maadi",
+        "Maadi",
+        "Shorouk City"
+    ],
+    "Maadi View": [
+        "Shorouk City",
+        "Zahraa Al Maadi"
+    ],
+    "Madinaty": [
+        "Madinaty",
+        "New Cairo - El Tagamoa",
+        "Heliopolis",
+        "Rehab City",
+        "Gouna",
+        "New Capital City"
+    ],
+    "Majada": [
+        "Ain Sukhna"
+    ],
+    "Majorelle": [
+        "Sheikh Zayed"
+    ],
+    "Makadi Heights": [
+        "Hurghada"
+    ],
+    "Makany": [
+        "Katameya",
+        "Zahraa Al Maadi",
+        "New Cairo - El Tagamoa"
+    ],
+    "Malibu": [
+        "Ain Sukhna"
+    ],
+    "Mallorca": [
+        "North Coast"
+    ],
+    "Maraqia": [
+        "Haram",
+        "North Coast",
+        "Borg al-Arab"
+    ],
+    "Marassi": [
+        "Marsa Matrouh",
+        "North Coast",
+        "Alamein",
+        "New Cairo - El Tagamoa"
+    ],
+    "Marbella": [
+        "North Coast",
+        "Ataba"
+    ],
+    "Marina 1": [
+        "North Coast",
+        "New Cairo - El Tagamoa"
+    ],
+    "Marina 2": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Marina 4": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Marina 5": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Marina 6": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Marina 7": [
+        "Alamein",
+        "North Coast"
+    ],
+    "Marina City": [
+        "New Cairo - El Tagamoa",
+        "North Coast",
+        "Alamein"
+    ],
+    "Marina Flowers": [
+        "Hammam"
+    ],
+    "Marina Gardens": [
+        "North Coast",
+        "Borg al-Arab"
+    ],
+    "Marina Sunshine": [
+        "North Coast"
+    ],
+    "Marina Wadi Degla": [
+        "Ain Sukhna"
+    ],
+    "Marseilia Beach 1": [
+        "North Coast"
+    ],
+    "Marseilia Beach 2": [
+        "North Coast"
+    ],
+    "Marseilia Beach 3": [
+        "North Coast"
+    ],
+    "Marseilia Beach 4": [
+        "North Coast"
+    ],
+    "Maxim Country Club": [
+        "New Cairo - El Tagamoa",
+        "Shorouk City"
+    ],
+    "May Fair": [
+        "Shorouk City",
+        "Madinaty"
+    ],
+    "Mazarine": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Meadows Park": [
+        "Sheikh Zayed"
+    ],
+    "Mena": [
+        "North Coast"
+    ],
+    "Mena 3": [
+        "North Coast"
+    ],
+    "Mena 4": [
+        "North Coast"
+    ],
+    "Mena Garden City": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Mena Residence": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Midtown": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Midtown Condo": [
+        "New Capital City"
+    ],
+    "Midtown Sky": [
+        "New Capital City"
+    ],
+    "Mirage City": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Misr Lel Taamir": [
+        "Hammam"
+    ],
+    "Mivida": [
+        "New Cairo - El Tagamoa",
+        "Unknown",
+        "Mokattam"
+    ],
+    "Mohandesin": [
+        "Abu Talat",
+        "North Coast"
+    ],
+    "Montazah": [
+        "Sharm al-Sheikh",
+        "North Coast"
+    ],
+    "Monte Napoleon": [
+        "Mostakbal City",
+        "New Capital City"
+    ],
+    "Moon City": [
+        "Ismailia City",
+        "Salam City"
+    ],
+    "Moon Garden": [
+        "Obour City"
+    ],
+    "Moon Hillls": [
+        "6th of October",
+        "Sheikh Zayed",
+        "Unknown"
+    ],
+    "Moon Land": [
+        "Sheikh Zayed"
+    ],
+    "Moon Valley": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Mountain View - Giza Plateau": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Mountain View - October Park": [
+        "6th of October",
+        "New Cairo - El Tagamoa"
+    ],
+    "Mountain View 1": [
+        "New Cairo - El Tagamoa",
+        "Ain Sukhna"
+    ],
+    "Mountain View 2": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Mountain View 3": [
+        "New Cairo - El Tagamoa",
+        "North Coast"
+    ],
+    "Mountain View Chillout Park": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "Mountain View Executive": [
+        "New Cairo - El Tagamoa",
+        "North Coast"
+    ],
+    "Mountain View Hyde Park": [
+        "New Cairo - El Tagamoa",
+        "6th of October"
+    ],
+    "Mountain View North Coast": [
+        "Agami",
+        "North Coast",
+        "Sheikh Zayed",
+        "Heliopolis",
+        "Dabaa",
+        "New Cairo - El Tagamoa",
+        "Hadayek 6th of October",
+        "Alamein",
+        "Marsa Matrouh",
+        "Smoha",
+        "6th of October",
+        "Nasr City",
+        "Ain Sukhna",
+        "Maadi",
+        "Downtown Cairo"
+    ],
+    "Mountain View Sokhna": [
+        "Ain Sukhna"
+    ],
+    "Mountain View iCity": [
+        "New Cairo - El Tagamoa",
+        "Hadayek 6th of October",
+        "6th of October",
+        "Sheikh Zayed",
+        "Rehab City",
+        "Obour City",
+        "Sheraton",
+        "New Nozha",
+        "Zamalek",
+        "North Coast",
+        "Heliopolis",
+        "Nasr City",
+        "New Capital City",
+        "Katameya"
+    ],
+    "Mousa Coast": [
+        "Ras Sedr"
+    ],
+    "Murano Ain Sokhna": [
+        "Ain Sukhna"
+    ],
+    "Murooj": [
+        "Smoha"
+    ],
+    "Nakheel": [
+        "Nakheel",
+        "New Cairo - El Tagamoa",
+        "Sheikh Zayed",
+        "Shorouk City"
+    ],
+    "Nest Cairo": [
+        "New Cairo - El Tagamoa"
+    ],
+    "New Giza": [
+        "Sheikh Zayed",
+        "6th of October",
+        "New Cairo - El Tagamoa"
+    ],
+    "New Venecia": [
+        "Ain Sukhna",
+        "North Coast"
+    ],
+    "Nice": [
+        "North Coast"
+    ],
+    "Noor City": [
+        "New Capital City",
+        "New Cairo - El Tagamoa"
+    ],
+    "North Edge Towers": [
+        "North Coast",
+        "Alamein",
+        "New Cairo - El Tagamoa"
+    ],
+    "Not in Compound": [
+        "Obour City",
+        "Mokattam",
+        "Qasr al-Nil",
+        "Nasr City",
+        "New Cairo - El Tagamoa",
+        "Badr City",
+        "Smoha",
+        "Dokki",
+        "Ain Sukhna",
+        "Damietta City",
+        "Ras al-Bar",
+        "Cleopatra",
+        "Sheikh Zayed",
+        "Mohandessin",
+        "Al Manial",
+        "Shorouk City",
+        "Garden City",
+        "Zamalek",
+        "Hadayek 6th of October",
+        "6th of October",
+        "Glim",
+        "Sheraton",
+        "Gianaclis",
+        "10th of Ramadan",
+        "Almazah",
+        "San Stefano",
+        "Kafr Abdo",
+        "Hadayek al-Ahram",
+        "Heliopolis",
+        "El Fostat",
+        "Sidi Beshr",
+        "Mansura",
+        "Maamoura",
+        "Faisal",
+        "Rehab City",
+        "Miami",
+        "Stanley",
+        "Laurent",
+        "New Heliopolis",
+        "Dhahria",
+        "Zahraa Al Maadi",
+        "Hurghada",
+        "Azarita",
+        "Ain Shams",
+        "Mandara",
+        "Camp Caesar",
+        "Boulaq",
+        "Haram",
+        "Moharam Bik",
+        "Sidi Gaber",
+        "New Capital City",
+        "Al Hadrah",
+        "Bahray - Anfoshy",
+        "Maadi",
+        "Alamein",
+        "Warraq",
+        "Helmeyat El Zaytoun",
+        "Borg al-Arab",
+        "West Somid",
+        "Qanater al-Khairia",
+        "Gouna",
+        "Katameya"
+    ],
+    "O West": [
+        "6th of October",
+        "Sheikh Zayed",
+        "Hadayek 6th of October",
+        "West Somid"
+    ],
+    "OIA": [
+        "6th of October"
+    ],
+    "October Plaza Sodic": [
+        "6th of October",
+        "Sheikh Zayed",
+        "West Somid"
+    ],
+    "One 16": [
+        "Tanta",
+        "Sheikh Zayed"
+    ],
+    "One Kattameya": [
+        "Nasr City",
+        "Katameya",
+        "Maadi",
+        "Zahraa Al Maadi"
+    ],
+    "Opera City": [
+        "Sheikh Zayed"
+    ],
+    "Oriana": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Orlando": [
+        "Ain Sukhna"
+    ],
+    "Pali North Coast": [
+        "Sheikh Zayed",
+        "North Coast"
+    ],
+    "Palm Beach": [
+        "Ain Sukhna",
+        "Ras Sedr"
+    ],
+    "Palm Hills Alexandria": [
+        "Moharam Bik",
+        "Kafr Abdo",
+        "Roushdy",
+        "Smoha",
+        "Stanley"
+    ],
+    "Palm Hills Katameya": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Palm Hills Katameya Extension": [
+        "New Cairo - El Tagamoa",
+        "Katameya"
+    ],
+    "Palm Hills New Alamein": [
+        "Alamein",
+        "Ain Sukhna",
+        "North Coast"
+    ],
+    "Palm Hills New Cairo": [
+        "New Cairo - El Tagamoa",
+        "Rehab City",
+        "Unknown"
+    ],
+    "Palm Parks": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Palm Valley": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Palm hills golf extension": [
+        "Sheikh Zayed",
+        "6th of October",
+        "New Cairo - El Tagamoa",
+        "Hadayek 6th of October"
+    ],
+    "Palm hills golf views": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Panorama Beach": [
+        "North Coast"
+    ],
+    "Paradise": [
+        "Ras Sedr",
+        "New Cairo - El Tagamoa"
+    ],
+    "Paradise Ras Sedr": [
+        "Ras Sedr"
+    ],
+    "Park View": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Piacera": [
+        "Ain Sukhna"
+    ],
+    "Piu Bella": [
+        "North Coast"
+    ],
+    "Porto Cairo": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Porto Golf Marina": [
+        "Alamein",
+        "Marsa Matrouh",
+        "North Coast",
+        "Hadayek 6th of October",
+        "New Cairo - El Tagamoa"
+    ],
+    "Porto Heliopolis": [
+        "Almazah"
+    ],
+    "Porto Marina": [
+        "Alamein",
+        "North Coast"
+    ],
+    "Porto Matrouh": [
+        "Marsa Matrouh"
+    ],
+    "Porto New Cairo": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Porto October": [
+        "Hadayek 6th of October",
+        "Sheikh Zayed",
+        "6th of October",
+        "New Cairo - El Tagamoa"
+    ],
+    "Porto Sokhna": [
+        "Ain Sukhna",
+        "Almazah",
+        "New Cairo - El Tagamoa",
+        "Dar al-Salaam",
+        "Unknown"
+    ],
+    "Porto South Beach": [
+        "Ain Sukhna"
+    ],
+    "Princess": [
+        "6th of October"
+    ],
+    "Promenade New Cairo": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Pukka": [
+        "New Capital City"
+    ],
+    "Pyramids Heights": [
+        "Sheikh Zayed"
+    ],
+    "Pyramids Hills": [
+        "6th of October"
+    ],
+    "Pyramids Walk": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Ramatan": [
+        "North Coast"
+    ],
+    "Ramsis": [
+        "North Coast"
+    ],
+    "Rawdat Zayed": [
+        "Sheikh Zayed"
+    ],
+    "Rayhanah Plaza": [
+        "Zahraa Al Maadi",
+        "New Cairo - El Tagamoa"
+    ],
+    "Rayhanah Residence": [
+        "Zahraa Al Maadi",
+        "6th of October"
+    ],
+    "Rayos": [
+        "6th of October"
+    ],
+    "Reem Residence": [
+        "Sheikh Zayed"
+    ],
+    "Regents Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Rehab City": [
+        "Rehab City",
+        "New Cairo - El Tagamoa",
+        "Nasr City",
+        "Madinaty"
+    ],
+    "Remas": [
+        "Maadi",
+        "Ras Sedr",
+        "North Coast"
+    ],
+    "Residence 8": [
+        "6th of October"
+    ],
+    "Rhodes": [
+        "New Capital City"
+    ],
+    "Ritage": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Rittal Vieux": [
+        "Ain Sukhna",
+        "North Coast"
+    ],
+    "Rivan": [
+        "New Capital City"
+    ],
+    "Riviera Heights": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Rock Eden": [
+        "Hadayek 6th of October",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Rock Vera": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Rock Ville": [
+        "Obour City"
+    ],
+    "Rosa": [
+        "Ras Sedr"
+    ],
+    "Rosana": [
+        "Sheikh Zayed"
+    ],
+    "Roses": [
+        "New Capital City"
+    ],
+    "Royal Beach": [
+        "Hurghada"
+    ],
+    "Royal City": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Royal Maxim": [
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Royal Meadows": [
+        "Sheikh Zayed"
+    ],
+    "Safwa Dream": [
+        "6th of October"
+    ],
+    "Sama": [
+        "Zahraa Al Maadi",
+        "Katameya",
+        "Maadi",
+        "Sheikh Zayed"
+    ],
+    "Sand Beach": [
+        "North Coast"
+    ],
+    "Santa Claus": [
+        "Ain Sukhna"
+    ],
+    "Santa Claus Ras Sedr": [
+        "Ras Sedr"
+    ],
+    "Santorini": [
+        "North Coast"
+    ],
+    "Sarai": [
+        "New Cairo - El Tagamoa",
+        "Nasr City",
+        "Madinaty",
+        "Mostakbal City",
+        "Shorouk City",
+        "Maadi",
+        "New Nozha",
+        "Obour City",
+        "Zamalek",
+        "North Coast"
+    ],
+    "Sarayat El Kattameya": [
+        "Katameya"
+    ],
+    "Scarab Club": [
+        "Gouna"
+    ],
+    "Scenario": [
+        "New Capital City"
+    ],
+    "Scene 7": [
+        "New Capital City"
+    ],
+    "Sea View": [
+        "North Coast",
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Seabelle": [
+        "New Mansoura"
+    ],
+    "Seashell": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Seasons": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Sephora Heights": [
+        "New Cairo - El Tagamoa",
+        "Asyut City"
+    ],
+    "Sheraton Residence": [
+        "Heliopolis"
+    ],
+    "Siela Resort": [
+        "North Coast"
+    ],
+    "Silva ": [
+        "Sheikh Zayed"
+    ],
+    "Silver Sands": [
+        "North Coast",
+        "New Cairo - El Tagamoa"
+    ],
+    "Six West": [
+        "Heliopolis",
+        "Hurghada"
+    ],
+    "Sky City": [
+        "North Coast",
+        "Ain Sukhna"
+    ],
+    "Sky Condos Sodic": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Smeralda Bay": [
+        "North Coast"
+    ],
+    "Sodic East": [
+        "New Heliopolis",
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Sodic Westown": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Spanish District": [
+        "Hadayek 6th of October"
+    ],
+    "Spring Land": [
+        "Ras Sedr"
+    ],
+    "Stella Compounds": [
+        "North Coast",
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa",
+        "Shorouk City",
+        "New Heliopolis",
+        "Obour City"
+    ],
+    "Stella Di Mare": [
+        "Hurghada",
+        "Almazah",
+        "Ain Sukhna",
+        "North Coast"
+    ],
+    "Stella Di Mare Sea View": [
+        "Ain Sukhna"
+    ],
+    "Stella Heights": [
+        "North Coast",
+        "Alamein"
+    ],
+    "Stella Marina": [
+        "Maadi",
+        "Alamein",
+        "North Coast"
+    ],
+    "Stella New Cairo": [
+        "Shorouk City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Stella Sidi abd elrahman": [
+        "North Coast",
+        "New Cairo - El Tagamoa"
+    ],
+    "Stone Park": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Stone Residence": [
+        "New Cairo - El Tagamoa",
+        "Madinaty"
+    ],
+    "Sun Capital": [
+        "6th of October",
+        "North Coast",
+        "Hadayek 6th of October",
+        "Sheikh Zayed"
+    ],
+    "Sun City": [
+        "Ras al-Bar",
+        "New Cairo - El Tagamoa"
+    ],
+    "Sun City Gardens": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Sun Gate": [
+        "Zahraa Al Maadi"
+    ],
+    "Swan Lake": [
+        "New Cairo - El Tagamoa",
+        "North Coast",
+        "6th of October"
+    ],
+    "TRUE Gate": [
+        "Nasr City"
+    ],
+    "Tag Sultan": [
+        "New Cairo - El Tagamoa",
+        "Heliopolis",
+        "Nasr City"
+    ],
+    "Taj City": [
+        "New Cairo - El Tagamoa",
+        "Heliopolis",
+        "Nasr City",
+        "New Nozha",
+        "Almazah",
+        "Rehab City",
+        "Sheraton",
+        "Obour City",
+        "Shorouk City",
+        "Madinaty",
+        "Garden City",
+        "Maadi",
+        "Downtown Cairo"
+    ],
+    "Tala": [
+        "Sheikh Zayed",
+        "6th of October",
+        "New Capital City"
+    ],
+    "Tavira": [
+        "Ras Sedr"
+    ],
+    "Tawny": [
+        "6th of October",
+        "Sheikh Zayed"
+    ],
+    "Telal North Coast": [
+        "North Coast",
+        "Nasr City",
+        "New Capital City",
+        "Alamein",
+        "New Cairo - El Tagamoa",
+        "Ain Sukhna",
+        "Dabaa"
+    ],
+    "Telal Sokhna": [
+        "Ain Sukhna",
+        "North Coast",
+        "Sheikh Zayed"
+    ],
+    "The Address East": [
+        "New Cairo - El Tagamoa",
+        "Mostakbal City",
+        "Unknown"
+    ],
+    "The Axis": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "The Brooks": [
+        "New Cairo - El Tagamoa"
+    ],
+    "The Capital Way": [
+        "New Capital City"
+    ],
+    "The City": [
+        "New Capital City",
+        "New Cairo - El Tagamoa"
+    ],
+    "The Crown": [
+        "Sheikh Zayed",
+        "6th of October"
+    ],
+    "The Estates": [
+        "Sheikh Zayed"
+    ],
+    "The Gate": [
+        "Alamein",
+        "North Coast"
+    ],
+    "The Groove": [
+        "Ain Sukhna",
+        "New Cairo - El Tagamoa"
+    ],
+    "The Icon Residence": [
+        "New Cairo - El Tagamoa"
+    ],
+    "The Key": [
+        "Mokattam"
+    ],
+    "The MarQ": [
+        "Mostakbal City"
+    ],
+    "The Pearl": [
+        "Kafr al-Sheikh City",
+        "New Mansoura"
+    ],
+    "The Square": [
+        "New Cairo - El Tagamoa"
+    ],
+    "The Village": [
+        "New Cairo - El Tagamoa"
+    ],
+    "The Water Marq": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Tiba Gardens": [
+        "6th of October"
+    ],
+    "Tiba Rose": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Tijan": [
+        "Zahraa Al Maadi",
+        "Maadi"
+    ],
+    "Town Gate": [
+        "New Capital City"
+    ],
+    "Trio Gardens": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Tulip Residence": [
+        "Ain Sukhna"
+    ],
+    "Unknown": [
+        "Nasr City",
+        "Camp Caesar",
+        "Smoha",
+        "New Cairo - El Tagamoa",
+        "Shorouk City",
+        "Sidi Beshr",
+        "Gesr Al Suez",
+        "Mokattam",
+        "New Damietta",
+        "Mansura",
+        "New Heliopolis",
+        "Badr City",
+        "Gamasa",
+        "6th of October",
+        "Borg al-Arab",
+        "Mohandessin",
+        "Glim",
+        "Ain Sukhna",
+        "Sheikh Zayed",
+        "Abasiya",
+        "Fleming",
+        "Maadi",
+        "Hadayek 6th of October",
+        "Haram",
+        "Damietta City",
+        "Ismailia City",
+        "10th of Ramadan",
+        "Zahraa Al Maadi",
+        "Heliopolis",
+        "Dar al-Salaam",
+        "Hadayek al-Ahram",
+        "Madinaty",
+        "North Coast",
+        "Nakheel",
+        "Bacchus",
+        "Hurghada",
+        "Agouza",
+        "Tanta",
+        "New Capital City",
+        "Tura",
+        "Faisal District",
+        "Mandara",
+        "Helmeyat El Zaytoun",
+        "Rehab City",
+        "Alamein",
+        "Miami",
+        "Hadayek al-Kobba",
+        "Tersa",
+        "Agami",
+        "Ras al-Bar",
+        "Mostakbal City",
+        "Port Fouad",
+        "Salam City",
+        "Aswan City",
+        "Helwan",
+        "Bolkly",
+        "15 May City",
+        "Maamoura",
+        "Seyouf",
+        "Sharq District",
+        "Ain Shams",
+        "Sidi Gaber",
+        "Shubra al-Khaimah",
+        "Laurent",
+        "Manakh District",
+        "Al Ibrahimiyyah",
+        "Cleopatra",
+        "Talkha",
+        "New Nozha",
+        "Manshiyya",
+        "Suez District",
+        "Sporting",
+        "Matareya",
+        "Faisal",
+        "Roushdy",
+        "Al Hadrah",
+        "Zagazig",
+        "Moharam Bik",
+        "San Stefano",
+        "Bahray - Anfoshy",
+        "Obour City",
+        "Sahl Hasheesh",
+        "West Somid",
+        "Gianaclis",
+        "Asafra",
+        "Gouna",
+        "Sheraton",
+        "Minya City",
+        "Dokki",
+        "Shubra",
+        "Marsa Matrouh",
+        "Giza District",
+        "Katameya",
+        "Saba Pasha",
+        "Asyut City",
+        "Azarita",
+        "Boulaq",
+        "Sayeda Zeinab",
+        "Montazah",
+        "Zezenia",
+        "Shatby",
+        "Markaz Sohag",
+        "Almazah",
+        "Zamalek",
+        "Ezbet El Nakhl",
+        "Downtown Cairo",
+        "Mahalla al-Kobra",
+        "Kafr al-Sheikh City",
+        "Warraq",
+        "Kit Kat",
+        "Boulaq Dakrour",
+        "Mit Ghamr",
+        "Kafr Abdo",
+        "Beni Suef City",
+        "Maryotaya",
+        "Schutz",
+        "Khanka",
+        "Zohour District",
+        "Al Amiriyyah",
+        "Stanley",
+        "Hadayek Helwan",
+        "Damanhour",
+        "Imbaba",
+        "El Fostat",
+        "Dawahy District",
+        "Shebin al-Koum",
+        "Qena City",
+        "Sharabeya",
+        "Minya al-Qamh",
+        "Abu Talat",
+        "Sharm al-Sheikh",
+        "Banha",
+        "Masr al-Kadema",
+        "Hammam",
+        "Awayed",
+        "Gomrok",
+        "Arab District",
+        "Manzala",
+        "Rod al-Farag",
+        "Al Manial",
+        "New Mansoura",
+        "Amreya",
+        "Kafr al-Dawwar",
+        "Qalyub",
+        "Raml Station",
+        "Arbaeen",
+        "Darb al-Ahmar",
+        "Abu Qir",
+        "Quesna",
+        "Ard El Lewa",
+        "Safaga",
+        "Victoria",
+        "Attarin",
+        "Saft El Laban",
+        "El Max",
+        "Zawya al-Hamra",
+        "Attaka",
+        "Ramses + Ramses Extension",
+        "Khosous",
+        "Markaz al-Giza",
+        "Fayed",
+        "Dabaa",
+        "Ras Sedr",
+        "Ganoub District",
+        "Sadat",
+        "Aga",
+        "Unknown",
+        "Mansuriyya"
+    ],
+    "Uptown Cairo": [
+        "Mokattam",
+        "New Cairo - El Tagamoa"
+    ],
+    "Upville": [
+        "6th of October",
+        "Asafra",
+        "Sheikh Zayed",
+        "Hadayek 6th of October"
+    ],
+    "VGK": [
+        "Obour City",
+        "New Cairo - El Tagamoa"
+    ],
+    "Valencia": [
+        "North Coast"
+    ],
+    "Venus": [
+        "North Coast"
+    ],
+    "Village Gardens Katameya": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Village Gate": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Village West": [
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Villar Residence": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Villette": [
+        "New Cairo - El Tagamoa",
+        "Unknown"
+    ],
+    "Villino": [
+        "New Cairo - El Tagamoa"
+    ],
+    "Vinci": [
+        "New Capital City"
+    ],
+    "Virginia": [
+        "Alamein"
+    ],
+    "Vista Marina": [
+        "North Coast",
+        "Alamein",
+        "Sheikh Zayed"
+    ],
+    "Wahet El Ryhan": [
+        "6th of October"
+    ],
+    "White Bay": [
+        "North Coast"
+    ],
+    "Woodville": [
+        "6th of October"
+    ],
+    "Yaru": [
+        "New Capital City"
+    ],
+    "ZED Towers": [
+        "Sheikh Zayed",
+        "6th of October",
+        "Nakheel"
+    ],
+    "Zahra": [
+        "Alamein",
+        "North Coast",
+        "Kafr Abdo",
+        "Zahraa Al Maadi",
+        "New Cairo - El Tagamoa"
+    ],
+    "Zahya": [
+        "New Mansoura"
+    ],
+    "Zayed 2000": [
+        "Sheikh Zayed"
+    ],
+    "Zayed Dunes": [
+        "Sheikh Zayed"
+    ],
+    "Zayed Greens": [
+        "Sheikh Zayed",
+        "Unknown"
+    ],
+    "Zayed Regency": [
+        "Sheikh Zayed"
+    ],
+    "Zed East": [
+        "Sheikh Zayed",
+        "New Cairo - El Tagamoa"
+    ],
+    "Zizinia El Mostakbal": [
+        "New Cairo - El Tagamoa",
+        "Mostakbal City"
+    ],
+    "Zizinia Gardens": [
+        "New Cairo - El Tagamoa",
+        "Shorouk City"
+    ],
+    "Zomoroda": [
+        "North Coast"
+    ]
+}

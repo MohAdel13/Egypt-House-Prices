@@ -1,11 +1,21 @@
+import json
 
 
-property_types = ['Duplex', 'Apartment', 'Penthouse', 'Studio', 'Chalet', 'Stand Alone Villa',
-                  'Twin House', 'Town House']
+# Load the JSON file into a variable
+def compound_city_dict_def():
+    with open('Data/compound_city_dict.json', 'r') as f:
+        compound_city_dict = json.load(f)
+    return compound_city_dict
+
+compound_city_dict = compound_city_dict_def()
+
+
+property_types=['Duplex', 'Apartment', 'Penthouse', 'Studio', 'Chalet', 'Stand Alone Villa'
+ ,'Twin House' ,'Town House']
 
 
 compounds = [
-    'Unknown', 'Eastown', 'Beit Al Watan', 'Jayd', 'Zayed 2000', '90 Avenue',
+     'Eastown', 'Beit Al Watan', 'Jayd', 'Zayed 2000', '90 Avenue',
     'Armonia', 'Palm Hills New Cairo', 'La Mirada', 'Maadi V', 'One Kattameya',
     'Gardenia', 'The Pearl', 'Village West', 'Palm Parks', 'Midtown Sky',
     '2020 Compound', 'Mountain View iCity', 'EL Patio ORO', 'EL Patio Casa',
@@ -128,7 +138,7 @@ compounds = [
 ]
 
 
-delivery_term = ['Finished','Semi Finished', 'Core & Shell', 'Unknown ', 'Not Finished']
+delivery_term=['Finished' ,'Semi Finished', 'Core & Shell', 'Not Finished']
 
 
 cities = [
